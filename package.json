@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pr306500/github-actions-test/issues"
   },
-  "homepage": "https://github.com/pr306500/github-actions-test#readme"
+  "homepage": "https://github.com/pr306500/github-actions-test#readme",
+  "devDependencies": {
+    "console-log-colors": "^0.2.3"
+  }
 }
